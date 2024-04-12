@@ -2,8 +2,8 @@
 # Gustavo Tadeu Melgaço Valeriano
 
 
---> Estudante de Ciência da Computação - PUC Minas
---> Contagem-MG
+- --> Estudante de Ciência da Computação - PUC Minas
+- --> Contagem-MG
 
 
 ## Contato
