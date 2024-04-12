@@ -1,10 +1,15 @@
 
 # Gustavo Tadeu Melgaço Valeriano
 
+Olá seja bem-vindo ao meu GitHub, me chamo Gustavo, tenho 19 anos e estou graduando ciência da computação na faculdade PUC Minas.
+
 
 - 🎓 Estudante de Ciência da Computação - PUC Minas.
 - 🗺 Contagem-MG.
 - 🏳 19 anos.
+- 🙏 Futuro programador.
+
+
 
 
 ## Contato
