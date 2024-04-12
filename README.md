@@ -11,7 +11,7 @@
 - **E-mail:** [gustavotadeu1318@gmail.com]
 - **Instagram:**  [https://www.instagram.com/gtadeu__/]
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 
 
