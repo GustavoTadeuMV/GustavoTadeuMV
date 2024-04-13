@@ -21,7 +21,7 @@ Olá seja bem-vindo ao meu GitHub, me chamo Gustavo, tenho 19 anos, sou de Conta
 ## Social
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/gtadeu__/) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/Tadeu__13)
+
 
 
 
